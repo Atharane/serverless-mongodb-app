@@ -12,7 +12,7 @@ variables:
   azureSubscription: 'e26b65d0-d4b2-45e1-9aa0-04c06debc958'
 
   # Function app name
-  functionAppName: ''
+  functionAppName: 'vscode-mongodbapp'
 
   # Environment name
   environmentName: ''
